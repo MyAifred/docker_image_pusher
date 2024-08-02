@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 ypptec/nascab:3.4.6
+cube-diary:1.0.4
