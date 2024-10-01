@@ -7,3 +7,6 @@ xhofe/alist:latest
 
 ypptec/nascab:3.4.6
 cube-diary:1.0.4
+mariadb:10.11
+memcached:1.6
+seafileltd/seafile-mc:latest
